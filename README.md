@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am an undergrad at VIT Bhopal University pursuing B.Tech (CSE).
-I am passionate of **creating scalable web apps** for which I am a student of **MERN STACK** development.
-Reach me through :
-         1. LinkedIn : https://www.linkedin.com/in/pratyaksh-chaudhary-ab0909201/
-         2. Email : pratyaksh.chaudhary2020@vitbhopal.ac.in
-         3. Twitter : https://twitter.com/_the_reason_09
+- 🔭 I am an undergrad at VIT Bhopal University pursuing B.Tech (CSE).
+- 👯 I am passionate of **creating scalable web apps** for which I am a learner of **MERN STACK** development.
+- Reach me through :
+- LinkedIn : https://www.linkedin.com/in/pratyaksh-chaudhary-ab0909201/
+- Email : pratyaksh.chaudhary2020@vitbhopal.ac.in
+- Twitter : https://twitter.com/_the_reason_09
 
