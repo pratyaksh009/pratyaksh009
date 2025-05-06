@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I am an undergrad at VIT Bhopal University pursuing B.Tech (CSE).
-- 👯 I am passionate of **creating scalable web apps** for which I am a learner of **MERN STACK** development.
+- 🔭 I am an Analyst at Accenture.
+- 👯 I am passionate of **creating AI powered scalable web apps** for which I am a learner of **MERN STACK and AI /ML** development .
 - Reach me through :
 - LinkedIn : https://www.linkedin.com/in/pratyakshchaudhary009/
 - Email : pratyaksh.chaudhary2020@vitbhopal.ac.in
