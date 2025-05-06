@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 👯 I am passionate of **creating AI powered scalable web apps** for which I am a learner of **MERN STACK and AI /ML** development .
 - Reach me through :
 - LinkedIn : https://www.linkedin.com/in/pratyakshchaudhary009/
-- Email : pratyaksh.chaudhary2020@vitbhopal.ac.in
+- Email : pratyakshchaudhary009@gmail.com
 - Twitter : https://twitter.com/_the_reason_09
 
